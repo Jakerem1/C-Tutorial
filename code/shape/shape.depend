@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1669127355 source:c:\users\jacob\onedrive\documents\git\c-tutorial\code\shape\main.c
+	<stdio.h>
+	<stdlib.h>
+
